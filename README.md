@@ -9,6 +9,6 @@
 * You can modify **config.py** to change the training parameters of the model.
 
 ## Training and testing
-'''
+```
 python main.py
-'''
+```
